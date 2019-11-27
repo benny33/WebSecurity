@@ -1,0 +1,6 @@
+C:\Users\Administrator\source\repos\JSON_Test\JSON_Test\bin\Debug\JSON_Test.exe
+C:\Users\Administrator\source\repos\JSON_Test\JSON_Test\bin\Debug\JSON_Test.pdb
+C:\Users\Administrator\source\repos\JSON_Test\JSON_Test\obj\Debug\JSON_Test.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\JSON_Test\JSON_Test\obj\Debug\JSON_Test.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\JSON_Test\JSON_Test\obj\Debug\JSON_Test.exe
+C:\Users\Administrator\source\repos\JSON_Test\JSON_Test\obj\Debug\JSON_Test.pdb

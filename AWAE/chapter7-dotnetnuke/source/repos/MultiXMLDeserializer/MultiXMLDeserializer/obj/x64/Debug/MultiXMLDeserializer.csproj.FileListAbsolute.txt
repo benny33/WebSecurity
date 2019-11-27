@@ -1,0 +1,11 @@
+C:\Users\Administrator\source\repos\MultiXMLDeserializer\MultiXMLDeserializer\bin\x64\Debug\MultiXMLDeserializer.exe.config
+C:\Users\Administrator\source\repos\MultiXMLDeserializer\MultiXMLDeserializer\bin\x64\Debug\MultiXMLDeserializer.exe
+C:\Users\Administrator\source\repos\MultiXMLDeserializer\MultiXMLDeserializer\bin\x64\Debug\MultiXMLDeserializer.pdb
+C:\Users\Administrator\source\repos\MultiXMLDeserializer\MultiXMLDeserializer\bin\x64\Debug\MultiXMLSerializer.exe
+C:\Users\Administrator\source\repos\MultiXMLDeserializer\MultiXMLDeserializer\bin\x64\Debug\MultiXMLSerializer.pdb
+C:\Users\Administrator\source\repos\MultiXMLDeserializer\MultiXMLDeserializer\bin\x64\Debug\MultiXMLSerializer.exe.config
+C:\Users\Administrator\source\repos\MultiXMLDeserializer\MultiXMLDeserializer\obj\x64\Debug\MultiXMLDeserializer.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\MultiXMLDeserializer\MultiXMLDeserializer\obj\x64\Debug\MultiXMLDeserializer.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\MultiXMLDeserializer\MultiXMLDeserializer\obj\x64\Debug\MultiXMLDeserializer.csproj.CopyComplete
+C:\Users\Administrator\source\repos\MultiXMLDeserializer\MultiXMLDeserializer\obj\x64\Debug\MultiXMLDeserializer.exe
+C:\Users\Administrator\source\repos\MultiXMLDeserializer\MultiXMLDeserializer\obj\x64\Debug\MultiXMLDeserializer.pdb

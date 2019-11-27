@@ -1,0 +1,7 @@
+C:\Users\Administrator\source\repos\BasicXMLSerializer\BasicXMLSerializer\bin\x64\Debug\BasicXMLSerializer.exe.config
+C:\Users\Administrator\source\repos\BasicXMLSerializer\BasicXMLSerializer\bin\x64\Debug\BasicXMLSerializer.exe
+C:\Users\Administrator\source\repos\BasicXMLSerializer\BasicXMLSerializer\bin\x64\Debug\BasicXMLSerializer.pdb
+C:\Users\Administrator\source\repos\BasicXMLSerializer\BasicXMLSerializer\obj\x64\Debug\BasicXMLSerializer.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\BasicXMLSerializer\BasicXMLSerializer\obj\x64\Debug\BasicXMLSerializer.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\BasicXMLSerializer\BasicXMLSerializer\obj\x64\Debug\BasicXMLSerializer.exe
+C:\Users\Administrator\source\repos\BasicXMLSerializer\BasicXMLSerializer\obj\x64\Debug\BasicXMLSerializer.pdb

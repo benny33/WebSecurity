@@ -1,0 +1,7 @@
+C:\Users\Administrator\source\repos\MultiXMLSerializer\MultiXMLSerializer\bin\x64\Debug\MultiXMLSerializer.exe.config
+C:\Users\Administrator\source\repos\MultiXMLSerializer\MultiXMLSerializer\bin\x64\Debug\MultiXMLSerializer.exe
+C:\Users\Administrator\source\repos\MultiXMLSerializer\MultiXMLSerializer\bin\x64\Debug\MultiXMLSerializer.pdb
+C:\Users\Administrator\source\repos\MultiXMLSerializer\MultiXMLSerializer\obj\x64\Debug\MultiXMLSerializer.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\MultiXMLSerializer\MultiXMLSerializer\obj\x64\Debug\MultiXMLSerializer.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\MultiXMLSerializer\MultiXMLSerializer\obj\x64\Debug\MultiXMLSerializer.exe
+C:\Users\Administrator\source\repos\MultiXMLSerializer\MultiXMLSerializer\obj\x64\Debug\MultiXMLSerializer.pdb

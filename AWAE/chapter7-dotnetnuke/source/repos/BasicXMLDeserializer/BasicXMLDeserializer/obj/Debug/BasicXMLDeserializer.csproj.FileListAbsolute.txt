@@ -1,0 +1,11 @@
+C:\Users\Administrator\source\repos\BasicXMLDeserializer\BasicXMLDeserializer\bin\Debug\BasicXMLDeserializer.exe.config
+C:\Users\Administrator\source\repos\BasicXMLDeserializer\BasicXMLDeserializer\bin\Debug\BasicXMLDeserializer.exe
+C:\Users\Administrator\source\repos\BasicXMLDeserializer\BasicXMLDeserializer\bin\Debug\BasicXMLDeserializer.pdb
+C:\Users\Administrator\source\repos\BasicXMLDeserializer\BasicXMLDeserializer\obj\Debug\BasicXMLDeserializer.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\BasicXMLDeserializer\BasicXMLDeserializer\obj\Debug\BasicXMLDeserializer.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\BasicXMLDeserializer\BasicXMLDeserializer\obj\Debug\BasicXMLDeserializer.exe
+C:\Users\Administrator\source\repos\BasicXMLDeserializer\BasicXMLDeserializer\obj\Debug\BasicXMLDeserializer.pdb
+C:\Users\Administrator\source\repos\BasicXMLDeserializer\BasicXMLDeserializer\bin\Debug\BasicXMLSerializer.exe
+C:\Users\Administrator\source\repos\BasicXMLDeserializer\BasicXMLDeserializer\bin\Debug\BasicXMLSerializer.pdb
+C:\Users\Administrator\source\repos\BasicXMLDeserializer\BasicXMLDeserializer\bin\Debug\BasicXMLSerializer.exe.config
+C:\Users\Administrator\source\repos\BasicXMLDeserializer\BasicXMLDeserializer\obj\Debug\BasicXMLDeserializer.csproj.CopyComplete
