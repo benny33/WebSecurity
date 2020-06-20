@@ -15,3 +15,16 @@ XMLHttpRequest.open()
 XMLHttpRequest.send()
 jQuery.ajax()
 $.ajax() 
+
+ The following are some of the main sinks that can lead to DOM-based JavaScript-injection vulnerabilities:
+
+eval()
+Function() constructor
+setTimeout()
+setInterval()
+setImmediate()
+execCommand()
+execScript()
+msSetImmediate()
+range.createContextualFragment()
+crypto.generateCRMFRequest() 
