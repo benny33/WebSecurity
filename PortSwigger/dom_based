@@ -28,3 +28,27 @@ execScript()
 msSetImmediate()
 range.createContextualFragment()
 crypto.generateCRMFRequest() 
+
+ The following are some of the main sinks can lead to DOM-based link-manipulation vulnerabilities:
+
+someDOMElement.href
+someDOMElement.src
+someDOMElement.action 
+
+ The following are some of the main sinks can lead to DOM-based Ajax request-header vulnerabilities:
+
+XMLHttpRequest.setRequestHeader()
+XMLHttpRequest.open()
+XMLHttpRequest.send()
+jQuery.globalEval()
+$.globalEval() 
+
+ The following are some of the main sinks can lead to DOM-based local file path manipulation vulnerabilities:
+
+FileReader.readAsArrayBuffer()
+FileReader.readAsBinaryString()
+FileReader.readAsDataURL()
+FileReader.readAsText()
+FileReader.readAsFile()
+FileReader.root.getFile()
+FileReader.root.getFile() 
