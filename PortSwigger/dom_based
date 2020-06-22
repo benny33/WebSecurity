@@ -1,5 +1,4 @@
- The following are some of the main sinks can lead to DOM-based open-redirection vulnerabilities:
-
+The following are some of the main sinks can lead to DOM-based open-redirection vulnerabilities:
 location
 location.host
 location.hostname
@@ -16,8 +15,7 @@ XMLHttpRequest.send()
 jQuery.ajax()
 $.ajax() 
 
- The following are some of the main sinks that can lead to DOM-based JavaScript-injection vulnerabilities:
-
+The following are some of the main sinks that can lead to DOM-based JavaScript-injection vulnerabilities:
 eval()
 Function() constructor
 setTimeout()
@@ -29,22 +27,19 @@ msSetImmediate()
 range.createContextualFragment()
 crypto.generateCRMFRequest() 
 
- The following are some of the main sinks can lead to DOM-based link-manipulation vulnerabilities:
-
+The following are some of the main sinks can lead to DOM-based link-manipulation vulnerabilities:
 someDOMElement.href
 someDOMElement.src
 someDOMElement.action 
 
- The following are some of the main sinks can lead to DOM-based Ajax request-header vulnerabilities:
-
+The following are some of the main sinks can lead to DOM-based Ajax request-header vulnerabilities:
 XMLHttpRequest.setRequestHeader()
 XMLHttpRequest.open()
 XMLHttpRequest.send()
 jQuery.globalEval()
 $.globalEval() 
 
- The following are some of the main sinks can lead to DOM-based local file path manipulation vulnerabilities:
-
+The following are some of the main sinks can lead to DOM-based local file path manipulation vulnerabilities:
 FileReader.readAsArrayBuffer()
 FileReader.readAsBinaryString()
 FileReader.readAsDataURL()
@@ -52,3 +47,44 @@ FileReader.readAsText()
 FileReader.readAsFile()
 FileReader.root.getFile()
 FileReader.root.getFile() 
+
+The following are some of the main sinks that can lead to DOM-based HTML5-storage manipulation vulnerabilities:
+sessionStorage.setItem()
+localStorage.setItem() 
+
+The following are some of the main sinks that can lead to DOM-based XPath-injection vulnerabilities:
+document.evaluate()
+someDOMElement.evaluate() 
+
+The following are some of the main sinks that can lead to DOM-based Json-injection vulnerabilities:
+JSON.parse()
+jQuery.parseJSON()
+$.parseJSON() 
+
+The following are some of the main sinks that can lead to DOM-data manipulation vulnerabilities:
+scriptElement.src
+scriptElement.text
+scriptElement.textContent
+scriptElement.innerText
+someDOMElement.setAttribute()
+someDOMElement.search
+someDOMElement.text
+someDOMElement.textContent
+someDOMElement.innerText
+someDOMElement.outerText
+someDOMElement.value
+someDOMElement.name
+someDOMElement.target
+someDOMElement.method
+someDOMElement.type
+someDOMElement.backgroundImage
+someDOMElement.cssText
+someDOMElement.codebase
+document.title
+document.implementation.createHTMLDocument()
+history.pushState()
+history.replaceState() 
+
+The following are some of the main sinks can lead to DOM-based denial-of-service vulnerabilities:
+requestFileSystem()
+RegExp() 
